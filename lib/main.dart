@@ -3,12 +3,11 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:numattendance/helper/di.dart';
+import 'package:numattendance/helper/firebase_options.dart';
 import 'package:numattendance/helper/router_helper.dart';
 import 'package:numattendance/utils/app_constants.dart';
 
 import 'package:firebase_core/firebase_core.dart';
-
-import 'package:numattendance/firebase_options.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

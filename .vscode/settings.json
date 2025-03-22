@@ -1,3 +1,4 @@
 {
-  "cmake.sourceDirectory": "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/linux"
+  "cmake.sourceDirectory": "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/linux",
+  "git.ignoreLimitWarning": true
 }

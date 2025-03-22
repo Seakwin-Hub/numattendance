@@ -39,6 +39,7 @@ class StudentProfileScreen extends StatelessWidget {
                 "\nMajor ${userModel.majorId}\nClass ${userModel.admissionClass} | Gen ${userModel.generation}",
             username: userModel.username,
             radius: Dimensions.paddingSizeLarge * 2,
+            onTapImage: () => {},
           ),
           SizedBox(
             height: Dimensions.radiusExtraLarge * 1.5,

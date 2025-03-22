@@ -4,8 +4,20 @@ import 'package:get/get.dart';
 import 'package:numattendance/models/major_model.dart';
 
 class AuthController extends GetxController {
-  bool _isLoading = false;
+  final bool _isLoading = false;
   bool get isLoading => _isLoading;
+
+  // Future<void> registerUserWithEmail() async {
+  //   try {
+  //     final userCredential =
+  //         await FirebaseAuth.instance.createUserWithEmailAndPassword(
+  //       email: "email",
+  //       password: "password",
+  //     );
+  //   } on FirebaseException catch (e) {
+  //     print(e.message);
+  //   }
+  // }
 
   Future<List<MajorModel>> getMajorById(String? id) async {
     List<MajorModel> majorList = [];

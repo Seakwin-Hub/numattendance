@@ -38,6 +38,7 @@ class ParentScreen extends StatelessWidget {
       body: Column(
         children: [
           HeaderWidget(
+            onTapImage: () => {},
             profileImage: Images.phannet,
             color: TColor.primaryColor,
             userInfo:
