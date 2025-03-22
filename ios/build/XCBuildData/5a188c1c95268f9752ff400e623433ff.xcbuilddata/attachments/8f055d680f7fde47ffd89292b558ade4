@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.dia",
+    "emit-module-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.swiftdeps"
+  },
+  "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift" : {
+    "const-values" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.swiftconstvalues",
+    "dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.d",
+    "diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o",
+    "llvm-bc" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.bc",
+    "object" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o",
+    "swift-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.swiftdeps",
+    "swiftmodule" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding~partial.swiftmodule"
+  },
+  "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift" : {
+    "const-values" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.swiftconstvalues",
+    "dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.d",
+    "diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o",
+    "llvm-bc" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.bc",
+    "object" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o",
+    "swift-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.swiftdeps",
+    "swiftmodule" : "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder~partial.swiftmodule"
+  }
+}

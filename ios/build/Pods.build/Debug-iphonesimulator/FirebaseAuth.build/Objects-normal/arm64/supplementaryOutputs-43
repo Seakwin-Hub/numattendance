@@ -1,0 +1,48 @@
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/AuthProvider/PhoneAuthProvider.swift":
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthProvider.swiftdeps"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthProvider.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthProvider.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthProvider.o"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthProvider.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/ResetPasswordRequest.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordRequest.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordRequest.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordRequest.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordRequest.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordRequest.o"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/MultiFactor/Phone/PhoneMultiFactorInfo.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorInfo.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorInfo.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorInfo.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorInfo.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorInfo.o"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/MultiFactor/Phone/PhoneMultiFactorGenerator.swift":
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorGenerator.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorGenerator.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorGenerator.o"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorGenerator.d"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorGenerator.swiftdeps"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/ResetPasswordResponse.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordResponse.d"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordResponse.o"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordResponse.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordResponse.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/ResetPasswordResponse.swiftconstvalues"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/AuthProvider/PhoneAuthCredential.swift":
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthCredential.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthCredential.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthCredential.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthCredential.o"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneAuthCredential.d"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/MultiFactor/Phone/PhoneMultiFactorAssertion.swift":
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorAssertion.dia"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorAssertion.swiftdeps"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorAssertion.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorAssertion.o"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/PhoneMultiFactorAssertion.d"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/AuthProvider/OAuthProvider.swift":
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/OAuthProvider.dia"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/OAuthProvider.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/OAuthProvider.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/OAuthProvider.o"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/OAuthProvider.swiftdeps"

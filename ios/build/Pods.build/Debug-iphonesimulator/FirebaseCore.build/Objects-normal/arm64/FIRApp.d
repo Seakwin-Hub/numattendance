@@ -1,0 +1,24 @@
+dependencies: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/Darwin.modulemap \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/ObjectiveC.modulemap \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainerInternal.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRFirebaseUserAgent.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIROptionsInternal.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap

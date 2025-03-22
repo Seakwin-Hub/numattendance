@@ -1,0 +1,48 @@
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/MultiFactor/SignIn/StartMFASignInResponse.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/StartMFASignInResponse.d"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/StartMFASignInResponse.o"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/StartMFASignInResponse.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/StartMFASignInResponse.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/StartMFASignInResponse.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPMultFactorAssertion.swift":
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultFactorAssertion.swiftdeps"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultFactorAssertion.o"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultFactorAssertion.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultFactorAssertion.swiftconstvalues"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultFactorAssertion.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPSecret.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPSecret.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPSecret.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPSecret.o"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPSecret.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPSecret.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/AuthProvider/TwitterAuthProvider.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TwitterAuthProvider.d"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TwitterAuthProvider.swiftdeps"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TwitterAuthProvider.o"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TwitterAuthProvider.swiftconstvalues"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TwitterAuthProvider.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPMultiFactorGenerator.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorGenerator.d"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorGenerator.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorGenerator.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorGenerator.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorGenerator.o"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/User/User.swift":
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/User.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/User.swiftdeps"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/User.d"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/User.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/User.o"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/User/UserInfo.swift":
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/UserInfo.swiftdeps"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/UserInfo.o"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/UserInfo.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/UserInfo.swiftconstvalues"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/UserInfo.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/MultiFactor/TOTP/TOTPMultiFactorInfo.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorInfo.d"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorInfo.o"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorInfo.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorInfo.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/TOTPMultiFactorInfo.swiftconstvalues"

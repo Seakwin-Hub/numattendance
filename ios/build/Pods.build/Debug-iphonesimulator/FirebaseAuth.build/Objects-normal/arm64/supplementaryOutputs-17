@@ -1,0 +1,48 @@
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/User/UserProfileUpdate.swift":
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileUpdate.swiftdeps"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileUpdate.o"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileUpdate.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileUpdate.swiftconstvalues"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileUpdate.d"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/VerifyClientRequest.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientRequest.d"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientRequest.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientRequest.o"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientRequest.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientRequest.swiftdeps"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/User/UserProfileChangeRequest.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileChangeRequest.d"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileChangeRequest.o"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileChangeRequest.dia"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileChangeRequest.swiftdeps"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserProfileChangeRequest.swiftconstvalues"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/User/UserMetadata.swift":
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserMetadata.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserMetadata.o"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserMetadata.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserMetadata.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserMetadata.swiftdeps"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyAssertionResponse.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionResponse.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionResponse.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionResponse.o"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionResponse.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionResponse.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/VerifyAssertionRequest.swift":
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionRequest.o"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionRequest.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionRequest.swiftconstvalues"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionRequest.d"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyAssertionRequest.swiftdeps"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/User/UserInfoImpl.swift":
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserInfoImpl.dia"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserInfoImpl.swiftdeps"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserInfoImpl.o"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserInfoImpl.swiftconstvalues"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/UserInfoImpl.d"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/VerifyClientResponse.swift":
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientResponse.swiftdeps"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientResponse.d"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientResponse.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientResponse.o"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/arm64/VerifyClientResponse.swiftconstvalues"

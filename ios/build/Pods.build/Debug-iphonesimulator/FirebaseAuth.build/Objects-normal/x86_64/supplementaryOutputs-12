@@ -1,0 +1,48 @@
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/SecureTokenResponse.swift":
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenResponse.o"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenResponse.swiftdeps"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenResponse.swiftconstvalues"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenResponse.dia"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenResponse.d"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/SendVerificationTokenRequest.swift":
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenRequest.swiftdeps"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenRequest.swiftconstvalues"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenRequest.d"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenRequest.dia"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenRequest.o"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/SendVerificationTokenResponse.swift":
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenResponse.o"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenResponse.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenResponse.swiftconstvalues"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenResponse.d"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SendVerificationTokenResponse.swiftdeps"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/RevokeTokenRequest.swift":
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenRequest.swiftconstvalues"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenRequest.d"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenRequest.o"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenRequest.swiftdeps"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenRequest.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/SetAccountInfoRequest.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SetAccountInfoRequest.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SetAccountInfoRequest.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SetAccountInfoRequest.swiftdeps"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SetAccountInfoRequest.o"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SetAccountInfoRequest.dia"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/SystemService/SecureTokenService.swift":
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenService.dia"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenService.d"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenService.swiftdeps"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenService.swiftconstvalues"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenService.o"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/RevokeTokenResponse.swift":
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenResponse.d"
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenResponse.o"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenResponse.dia"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenResponse.swiftconstvalues"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/RevokeTokenResponse.swiftdeps"
+"/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/Pods/FirebaseAuth/FirebaseAuth/Sources/Swift/Backend/RPC/SecureTokenRequest.swift":
+  object: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenRequest.o"
+  dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenRequest.d"
+  const-values: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenRequest.swiftconstvalues"
+  diagnostics: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenRequest.dia"
+  swift-dependencies: "/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/ios/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/Objects-normal/x86_64/SecureTokenRequest.swiftdeps"

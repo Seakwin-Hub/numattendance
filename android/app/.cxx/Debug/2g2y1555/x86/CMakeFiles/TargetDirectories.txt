@@ -1,0 +1,2 @@
+/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/android/app/.cxx/Debug/2g2y1555/x86/CMakeFiles/edit_cache.dir
+/Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/android/app/.cxx/Debug/2g2y1555/x86/CMakeFiles/rebuild_cache.dir

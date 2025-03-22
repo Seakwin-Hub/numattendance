@@ -1,0 +1,34 @@
+moduledependenciestarget: \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Modules/module.modulemap \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FirebaseFirestoreInternal-umbrella.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRAggregateField.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRAggregateQuery.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRAggregateSource.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRAggregateQuerySnapshot.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRCollectionReference.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRQuery.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRFirestoreSource.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRListenerRegistration.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRSnapshotListenOptions.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRDocumentChange.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRDocumentReference.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRDocumentSnapshot.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FirebaseFirestore.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRFieldPath.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRFieldValue.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRFilter.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRFirestore.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRFirestoreErrors.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRFirestoreSettings.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRGeoPoint.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRLoadBundleTask.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRLocalCacheSettings.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRQuerySnapshot.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRSnapshotMetadata.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRTransaction.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRTransactionOptions.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRWriteBatch.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRPersistentCacheIndexManager.h \
+  /Users/chhimseakwin/Desktop/File/Mobile/Numattendance/numattendance/build/ios/Debug-iphonesimulator/FirebaseFirestoreInternal/FirebaseFirestoreInternal.framework/Headers/FIRVectorValue.h
